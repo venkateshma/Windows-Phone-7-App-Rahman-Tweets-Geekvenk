@@ -1,0 +1,13 @@
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\obj\Debug\App.g.i.cs
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\obj\Debug\MainPage.g.i.cs
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\obj\Debug\Rahman Tweets.g.resources
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\Bin\Debug\ApplicationIcon.png
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\Bin\Debug\Background.png
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\Bin\Debug\Rahman Tweets.dll
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\Bin\Debug\Rahman Tweets.pdb
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\Bin\Debug\AppManifest.xaml
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\Bin\Debug\Rahman_Tweets.xap
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\obj\Debug\Rahman Tweets.dll
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\obj\Debug\Rahman Tweets.pdb
+E:\Projects\Windows Phone\Rahman Tweets\Rahman Tweets\obj\Debug\XapCacheFile.xml
